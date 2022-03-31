@@ -10,7 +10,7 @@ The cashier can perform the following operations:
 - Sell tickets to a show. A ticket should hold information about the seat row and seat number.
 - The system should notify the cashier that the number of tickets per show was not exceeded when trying to book a new seat.
 - A cashier can see all the tickets that were sold for a show, cancel a reservation or edit the reserved seat.
-- 
+
 Application Constraints
 - The data will be stored in a database. Make sure the database schema is designed to avoid redundancy.
 - Use the Layers architectural pattern to organize your application. Use the following layers: Presentation (API) / Services for BL / Repositories
