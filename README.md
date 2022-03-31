@@ -6,6 +6,7 @@ The administrator user can perform the following operations:
 - CRUD on cashiers’ information.
 - CRUD on the list of shows that are performed at the theater. Keep track of the Genre (Opera, Ballet), Title, Distribution list (a long string is enough), Date of the show and the Number of tickets per show.
 - He/she can export all the tickets that were sold for a certain show (either in a csv or xml file).
+
 The cashier can perform the following operations:
 - Sell tickets to a show. A ticket should hold information about the seat row and seat number.
 - The system should notify the cashier that the number of tickets per show was not exceeded when trying to book a new seat.
